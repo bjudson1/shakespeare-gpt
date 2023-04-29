@@ -20,6 +20,7 @@ print(torch.load('model.pth'))
 # load the model
 m = GPTLanguageModel(65)
 m.load_state_dict(torch.load('model.pth'))
+m = m.to(device)
 
 # generate from the model
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
