@@ -41,8 +41,6 @@ def estimate_loss():
     model.train()
     return out
 
-
-
 torch.manual_seed(1337)
 
 # wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
@@ -88,3 +86,6 @@ for iter in range(max_iters):
     optimizer.zero_grad(set_to_none=True)
     loss.backward()
     optimizer.step()
+
+# save the model to disk
+torch.save(model.state_dict(), 'model.pth')
