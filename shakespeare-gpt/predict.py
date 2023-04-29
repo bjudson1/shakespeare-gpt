@@ -13,10 +13,6 @@ itos = { i:ch for i,ch in enumerate(chars) }
 decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
 
 
-
-print(torch.load('model.pth'))
-
-
 # load the model
 m = GPTLanguageModel(65)
 m.load_state_dict(torch.load('model.pth'))
