@@ -17,13 +17,16 @@ This repo contains the code pertaining to a demonstrative GPT (Generative Pre-tr
 A GPU is heavily recommended to run these scripts.
 
 ### Inference
+```
 cd shakespeare-gpt
 python predict.py
+```
 
 ### Training
+```
 cd shakespeare-gpt
 python train.py
-
+```
 
 ## Repo Layout
 
@@ -39,3 +42,9 @@ This directory contains a repackaged implementation of shakespear-gpt with train
 This directory contains extra media etc.
 
 
+
+
+
+watched this video as guide: https://www.youtube.com/watch?v=kCc8FmEb1nY&t=367s&ab_channel=AndrejKarpathy
+and this associated git repo: https://github.com/karpathy/ng-video-lecture
+also git repo for nano gpt: https://github.com/karpathy/nanoGPT
