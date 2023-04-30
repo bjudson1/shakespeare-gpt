@@ -48,7 +48,7 @@ This directory contains extra media etc.
 
 
 ## Refrences
-[Attention Is All You Need Paper](https://arxiv.org/abs/1706.03762)
-[Andrej Karpathy Video Lecture](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=367s&ab_channel=AndrejKarpathy)
-[Andrej Karpathy Video Lecture Git Repo](https://github.com/karpathy/ng-video-lecture)
-[Nano GPT Repo](https://github.com/karpathy/nanoGPT)
+- [Attention Is All You Need Paper](https://arxiv.org/abs/1706.03762)
+- [Andrej Karpathy Video Lecture](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=367s&ab_channel=AndrejKarpathy)
+- [Andrej Karpathy Video Lecture Git Repo](https://github.com/karpathy/ng-video-lecture)
+- [Nano GPT Repo](https://github.com/karpathy/nanoGPT)
