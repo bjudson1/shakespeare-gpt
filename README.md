@@ -13,6 +13,11 @@ This repo contains the code pertaining to a demonstrative GPT (Generative Pre-tr
 ![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/shakespeare_gpt_demo.gif)
 
 
+As mentioned, this tutorial is a great introduction to transformers and specifically the concept of "self-attention", the technique that have helped transformers to have such a meteroic rise in the space of deep learning.
+![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/transformer-arch.png)
+
+This demonstration was heavily influenced by [Andrej Karpathy's video leacture](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=367s&ab_channel=AndrejKarpathy) on GPT nueral networks.
+
 ## How to Use
 A GPU is heavily recommended to run these scripts.
 
@@ -42,9 +47,8 @@ This directory contains a repackaged implementation of shakespear-gpt with train
 This directory contains extra media etc.
 
 
-
-
-
-watched this video as guide: https://www.youtube.com/watch?v=kCc8FmEb1nY&t=367s&ab_channel=AndrejKarpathy
-and this associated git repo: https://github.com/karpathy/ng-video-lecture
-also git repo for nano gpt: https://github.com/karpathy/nanoGPT
+## Refrences
+[Attention Is All You Need Paper](https://arxiv.org/abs/1706.03762)
+[Andrej Karpathy Video Lecture](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=367s&ab_channel=AndrejKarpathy)
+[Andrej Karpathy Video Lecture Git Repo](https://github.com/karpathy/ng-video-lecture)
+[Nano GPT Repo](https://github.com/karpathy/nanoGPT)
