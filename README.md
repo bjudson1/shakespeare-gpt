@@ -5,12 +5,12 @@ This repo contains the code pertaining to a demonstrative GPT (Generative Pre-tr
 
 #### Just one line to run!
 
-![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/shakespeare-gpt-demo-2.gif)
+![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/shakespeare-gpt-demo.gif)
 
 
 #### GPU is highly recommended! Training/Hosting may not work on CPU in reasonable time frame
 
-![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/gpu2.gif)
+![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/gpu.gif)
 
 
 As mentioned, this tutorial is a great introduction to transformers and specifically the concept of "self-attention", the technique that have helped transformers to have such a meteroic rise in the space of deep learning.
