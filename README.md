@@ -10,6 +10,7 @@ This repo contains the code pertaining to a demonstrative GPT (Generative Pre-tr
 
 #### GPU is highly recommended! Training/Hosting may not work on CPU in reasonable time frame
 
+![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/gpu2.gif)
 ![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/gpu.gif)
 ![Alt Text](https://github.com/bjudson1/shakespeare-gpt/blob/main/etc/shakespeare_gpt_demo.gif)
 
